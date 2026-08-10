@@ -95,25 +95,21 @@ An AI-powered attendance management system designed to automate and simplify att
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prithviisss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prithviisss&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithviisss&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithviisss&theme=tokyonight&hide_border=true" width="48%"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithviisss&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithviisss&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
